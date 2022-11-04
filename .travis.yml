@@ -17,6 +17,6 @@ deploy:
   app: "docker-cicd"
   env: "Dockercicd-env"
   bucket_name: "elasticbeanstalk-ap-northeast-1-755633777379"
-  bucket_path: "docker-youtube"
+  bucket_path: "docker-cicd"
   on:
     branch: master
